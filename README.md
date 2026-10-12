@@ -37,3 +37,7 @@ Il risultato si trova in `dist/XML to Base64.app`.
 ## Autore
 
 Ing. Carmine Palermo — PC Web Agency
+
+## Licenza
+
+Distribuito con licenza [MIT](LICENSE).
