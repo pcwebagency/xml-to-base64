@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="icon.png" alt="XML to Base64" width="128">
+</p>
+
 # XML to Base64
 
 Piccola applicazione desktop (Tkinter) per convertire in Base64 file XML e XML firmati (`.xml.p7m`), ad esempio le fatture elettroniche, e per codificare/decodificare testo Base64.
